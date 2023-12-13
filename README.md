@@ -1,4 +1,4 @@
-# Hello, I'm Juan Dela Cruz! 👋
+# Hello, I'm Jessie Godezano! 👋
 
 I am a passionate coder with a strong background in database management. I enjoy unraveling complex problems and crafting elegant solutions. My tech journey started when I enrolled in the BS Information Technology program.
 
@@ -6,7 +6,7 @@ I am a passionate coder with a strong background in database management. I enjoy
 
 - **BS Information Technology**
   New Era University
-  *2021 - Present*
+  *2023 - Present*
 
 ## Certification
 
